@@ -1,5 +1,7 @@
 # Teoría de JS
 
+El fin de realizar este trabajo práctico de JS, es para poder afianzar los conceptos teóricos del lenguaje para entender su funcionamiento, como también poder practicar un poco lo básico e invitar a quienes estén interesados en aprender.
+
 ## ¿Qué significan los conceptos de scope, hoisting y mutabilidad en JavaScript?
 
 Estos son tres conceptos básicos necesarios para aprender cómo funciona este lenguaje de programación, ya que nos describen el compilado y la ejecución del entorno.
